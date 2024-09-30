@@ -185,7 +185,7 @@ train data의 불균형을 해소하기 위해 label 0.0에 해당하는 데이�
 <br>
 
 **V2_augmentation_biased**
-|<img src="https://github.com/user-attachments/assets/747863a6-5e62-41d9-ae5c-885c01a9a929" />|<img src="https://github.com/user-attachments/assets/348ccd06-07f4-49ae-9822-e776581c0995" />|
+|<img src="https://github.com/user-attachments/assets/747863a6-5e62-41d9-ae5c-885c01a9a929 width="500" height="400"" />|<img src="https://github.com/user-attachments/assets/348ccd06-07f4-49ae-9822-e776581c0995" width="500" height="400" />|
 |:--:|:--:|
 |label 별 분포|0.5단위 구간 별 분포|
 <br>
